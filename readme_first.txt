@@ -1,0 +1,1 @@
+php artisan storage:link -> untuk menghubungkan dengan storage file
